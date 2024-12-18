@@ -1,0 +1,11 @@
+﻿  Account.cpp
+D:\Udemy_Cpp\Visual_studio\Part15_Inheritance\Inheritence_study\Account_save_account\Account.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Save_account.cpp
+D:\Udemy_Cpp\Visual_studio\Part15_Inheritance\Inheritence_study\Account_save_account\Account.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Udemy_Cpp\Visual_studio\Part15_Inheritance\Inheritence_study\Account_save_account\Save_account.cpp(13,36): error C2248: 'Account::balance': cannot access protected member declared in class 'Account'
+D:\Udemy_Cpp\Visual_studio\Part15_Inheritance\Inheritence_study\Account_save_account\Account.h(8,9): message : see declaration of 'Account::balance'
+D:\Udemy_Cpp\Visual_studio\Part15_Inheritance\Inheritence_study\Account_save_account\Account.h(4,7): message : see declaration of 'Account'
+D:\Udemy_Cpp\Visual_studio\Part15_Inheritance\Inheritence_study\Account_save_account\Save_account.cpp(13,73): error C2248: 'Save_account::rate': cannot access protected member declared in class 'Save_account'
+D:\Udemy_Cpp\Visual_studio\Part15_Inheritance\Inheritence_study\Account_save_account\Save_account.h(7,9): message : see declaration of 'Save_account::rate'
+D:\Udemy_Cpp\Visual_studio\Part15_Inheritance\Inheritence_study\Account_save_account\Save_account.h(3,7): message : see declaration of 'Save_account'
+  Generating Code...
